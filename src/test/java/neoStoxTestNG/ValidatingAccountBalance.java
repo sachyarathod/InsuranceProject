@@ -74,6 +74,18 @@ public class ValidatingAccountBalance extends BaseclassNew
 	   home.clickonUserid(driver);
 	   Utilityproperties.wait(driver, 1000);
 	   home.clickonLogout(driver);
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
      }
     @AfterClass
     public void closeBrowser()
