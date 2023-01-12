@@ -66,6 +66,29 @@ public class ValidatePaymentAmount extends MishoBaseClass
   @AfterClass
   public void closebrowser()
   {
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
 	  driver.close();
 	  Reporter.log("closing browser",true);
   }
